@@ -6,7 +6,7 @@ kaboom();
 loadSprite("tlo","tlo.png")
 loadSprite("obrazek","mikolaj.png")
 
-loadSound("muzyka","_Christmas_time_.mp3")
+loadSound("muzyka","christmas.mp3")
 
 
 
